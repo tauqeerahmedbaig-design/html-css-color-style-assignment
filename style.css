@@ -1,0 +1,36 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+.color-name {
+    color: blue;
+}
+
+.hex-color {
+    color: #ff6600;
+}
+
+.rgb-color {
+    color: rgb(100, 150, 200);
+}
+
+.color-box {
+    background-color: #ffe6cc;
+    border: 3px solid brown;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.explanation {
+    margin-top: 20px;
+    font-style: italic;
+}
